@@ -10,7 +10,7 @@
 ---
 
 <a name="english"></a>
-## 🇬🇧 English
+##  English
 
 **OpenCleaner** is a free, open-source, and modern app uninstaller for macOS. It helps you remove applications along with their hidden leftover files (caches, preferences, support files) to free up disk space.
 
@@ -47,7 +47,7 @@ If you prefer running from source:
 ---
 
 <a name="中文說明"></a>
-## 🇨🇳 中文說明
+##  中文說明
 
 **OpenCleaner** 是一款免費、開源且界面現代的 macOS 應用卸載工具。它可以幫你徹底刪除應用程序及其隱藏的殘留文件（緩存、配置、支持文件），釋放寶貴的磁盤空間。
 
